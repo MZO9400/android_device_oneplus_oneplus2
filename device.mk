@@ -288,4 +288,4 @@ PRODUCT_PACKAGES += \
 
 # Inherit from oppo-common
 $(call inherit-product, device/oppo/common/common.mk)
-$(call inherit-product, device/oneplus/oneplus2/camera/Android.mk)
+$(call inherit-product, device/oneplus/oneplus2/camera/camera.mk)
