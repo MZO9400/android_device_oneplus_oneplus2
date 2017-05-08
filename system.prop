@@ -42,6 +42,7 @@ persist.camera.hal3.prv.feature=1
 # Enable RAW support and camera modes
 ro.camcorder.videoModes=true
 persist.camera.auto.hdr.enable=enable
+persist.camera.raw.format=30
 persist.camera.promode=true
 ro.config.hw_camera_hdr=true
 ro.config.hw_camera_bestShot=true
