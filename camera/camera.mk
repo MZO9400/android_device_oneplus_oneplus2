@@ -1,5 +1,4 @@
 PRODUCT_COPY_FILES += \
-	device/oneplus/oneplus2/camera/priv-app/OnePlusGallery/OnePlusGallery.apk:system/priv-app/OnePlusGallery/OnePlusGallery.apk \
 	device/oneplus/oneplus2/camera/priv-app/OnePlusCameraService/OnePlusCameraService.apk:system/priv-app/OnePlusCameraService/OnePlusCameraService.apk \
 	device/oneplus/oneplus2/camera/priv-app/OnePlusCamera/OnePlusCamera.apk:system/priv-app/OnePlusCamera/OnePlusCamera.apk \
 	device/oneplus/oneplus2/camera/priv-app/OnePlusCamera/lib/arm64/libopbaselib.so:system/priv-app/OnePlusCamera/lib/arm64/libopbaselib.so \
