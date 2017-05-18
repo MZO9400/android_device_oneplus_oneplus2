@@ -416,4 +416,14 @@
     <!-- Proximity check on screen on default -->
     <bool name="config_proximityCheckOnWakeEnabledByDefault">true</bool>
 
+    <!-- Do the battery/notification LEDs support pulsing?
+         Used to decide if we show pulse settings -->
+    <!-- <bool name="config_ledCanPulse">true</bool> -->
+
+    <!-- Whether notify fingerprint client of successful cancelled authentication -->
+    <bool name="config_notifyClientOnFingerprintCancelSuccess">true</bool>
+
+    <!-- True if the device supports system navigation keys. -->
+    <bool name="config_supportSystemNavigationKeys">true</bool>
+
 </resources>
