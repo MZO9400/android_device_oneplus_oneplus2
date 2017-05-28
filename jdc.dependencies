@@ -15,11 +15,6 @@
     "branch":      "aosp-7.1.2"
   },
   {
-    "repository": "TheMuppets/proprietary_vendor_oneplus",
-    "target_path": "vendor/oneplus",
-    "branch":      "cm-14.1"
-  },
-  {
     "repository": "AOSP-JF-MM/proprietary_vendor_oneplus_oneplus2",
     "target_path": "vendor/oneplus/oneplus2",
     "branch":      "aosp-7.1.2"
